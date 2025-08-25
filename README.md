@@ -18,7 +18,6 @@
 
 - **[Aura: AI Voice Agent](https://maulik-g.github.io/ai-voice-agent/)**  
   AI Voice Agent is a web application that lets you interact with an AI assistant using real-time voice conversations.
-  [View Code →](https://github.com/Maulik-G/aura-voice-agent)
   [![View Code](https://img.shields.io/badge/View_Code-black?style=for-the-badge&logo=github)](https://github.com/Maulik-G/ai-voice-agent)
 
 
