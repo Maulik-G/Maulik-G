@@ -1,9 +1,3 @@
-<h1 align="center">Name's Maulik</h1>
-<p align="center">
-  <em>Just a guy experiencing tech.</em>
-</p>
-
----
 
 ### About Me
 
