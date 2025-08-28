@@ -16,7 +16,7 @@ I really like to play with new tech stacks and collaborating with teams to bring
 
 ### Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maulikgaur)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Maulik-G/)  
+
 
 <hr style="width:40%; margin:auto; border:1px solid #eee;" />
