@@ -14,9 +14,23 @@ I really like to play with new tech stacks and collaborating with teams to bring
 
 <hr style="width:60%; margin:auto; border:1px solid #ddd;" />
 
-### Connect With Me  
+### Data Structures and Algorithms 
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Maulik-G/)  
-
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://leetcode.com/Maulik-G/">
+          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
+        </a>
+      </td>
+      <td>
+        <a href="https://leetcode.com/Maulik-G/">
+          <img src="https://leetcode-stats.vercel.app/api?username=Maulik-G" alt="Maulik-G's LeetCode Stats">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <hr style="width:40%; margin:auto; border:1px solid #eee;" />
