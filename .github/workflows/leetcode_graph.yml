@@ -8,11 +8,21 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Update LeetCode Graph
+    permissions:
+      contents: write # Needed to commit the generated image
     steps:
-      - uses: actions/checkout@v3
-      - uses: d_d-dev/leetcode-stats-card-action@main
+      - uses: lowlighter/metrics@latest
         with:
-          leetcode_username: 'YOUR_USERNAME_HERE'
-          comment_tag_name: 'leetcode_graph'
-          use_calendar: true # This tells the action to generate the calendar graph
+          # Your LeetCode username
+          filename: leetcode-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+          # Options
+          user: Maulik-G # Your GitHub username
+          base: ""
+          config_timezone: Asia/Kolkata
+          
+          # LeetCode Plugin
+          plugins_leetcode: yes
+          plugins_leetcode_user: 'Maulik-G'
+          plugins_leetcode_sections: 'calendar' # Can also be 'recent, stats'
