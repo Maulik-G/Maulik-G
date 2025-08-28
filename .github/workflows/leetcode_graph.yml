@@ -1,0 +1,20 @@
+name: Update LeetCode Graph
+
+on:
+  schedule:
+    - cron: '0 8 * * *' # Runs every day at 8 AM UTC
+  workflow_dispatch: # Allows you to run it manually
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update LeetCode Graph
+    steps:
+      - uses: actions/checkout@v3
+      - uses: jilc/leetcode-calendar-action@v1.2.1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          leetcode_token: ${{ secrets.LEETCODE_TOKEN }}
+          leetcode_session: ${{ secrets.LEETCODE_SESSION }}
+          commit_header: ":bar_chart: Update LeetCode Graph"
+          comment_tag_name: "leetcode_graph"
