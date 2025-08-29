@@ -8,6 +8,9 @@ I really like to play with new tech stacks and collaborating with teams to bring
 
 ### Live Project  
 
+- **[MG Web OS: My Portfolio](https://www.maulikgaur.me/)**  
+   A web os platform for **my portfolio** showcasing my work in a unique way.
+  Features include retro design, responsive apps (Paint, Snake, Resume Viewer, Mail App), hidden surprises, and live project links — all wrapped in a nostalgic OS interface.
 - **[Aura: AI Voice Agent](https://maulik-g.github.io/ai-voice-agent/)**  
    A web app for **real-time voice conversations** with an AI assistant.  
    [![View Code](https://img.shields.io/badge/View_Code-black?style=for-the-badge&logo=github)](https://github.com/Maulik-G/ai-voice-agent)  
