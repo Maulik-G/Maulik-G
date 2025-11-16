@@ -8,6 +8,10 @@ I really like to play with new tech stacks and collaborating with teams to bring
 
 ### Live Project  
 
+- **[Mocker: Mock Test Platform](https://mocker-mg.vercel.app/)**  
+   Exam-focused platform that helps you practice with realistic **mock tests, track performance with detailed analytics**, and improve faster through targeted insights. Built for serious prep — simple, fast, and focused on results.
+   [![View Code](https://img.shields.io/badge/View_Code-black?style=for-the-badge&logo=github)](https://github.com/Maulik-G/mocker)  
+
 - **[MG Web OS: My Portfolio](https://www.maulikgaur.me/)**  
    A web os platform for **my portfolio** showcasing my work in a unique way.  
    [![View Code](https://img.shields.io/badge/View_Code-black?style=for-the-badge&logo=github)](https://github.com/Maulik-G/portfolio-mg-web-os)
