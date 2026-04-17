@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=40&pause=1000&color=000000&center=true&vCenter=true&width=750&height=100&lines=Idea+To+Execution;Let's+Grow+Your+Business;From+MVP+to+Real+Business+Growth" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=40&pause=1000&color=00C853&center=true&vCenter=true&width=750&height=100&lines=Idea+To+Execution.;Let's+Grow+Your+Business.;From+MVP+to+Real+Business+Growth." />
 </p>
 
 <p align="center">
