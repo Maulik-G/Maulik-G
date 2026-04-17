@@ -1,91 +1,39 @@
-# Maulik Gaur
+### Building systems businesses actually run on
 
-### Building systems that power real-world businesses
-
-I design and build **production-ready systems for businesses** — from premium web presence to full operational platforms.
-
-Currently focused on creating scalable products and solving real operational problems.
+I build production-ready systems — from premium websites to full operational platforms.
 
 ---
 
 ## ⚡ What I Build
 
-* **Business Systems**
-  Tools that replace manual workflows with structured, efficient operations
-
-* **SaaS Products**
-  Scalable platforms designed for real-world usage and deployment
-
-* **Premium Web Experiences**
-  Clean, high-quality websites aligned with brand positioning
+| Area             | Outcome                           |
+| ---------------- | --------------------------------- |
+| Business Systems | Clean, structured operations      |
+| SaaS Products    | Scalable, real-world platforms    |
+| Web Presence     | Premium, high-converting websites |
 
 ---
 
-## 💼 Real Work
+## 💼 Proof
 
-### 🔹 Tea20 Cafe — Live Business System
-
-Built and deployed a complete operational system for a working café.
-
-* QR-based table ordering
-* Menu access & real-time syncing
-* Ledger & transaction tracking
-* MongoDB-backed system for daily operations
-
-🌐 https://tea20cafe.in
-
-This system is actively used in a real business environment.
-
----
-
-### 🔹 INSD Jaipur — Website Redesign
-
-Redesigned a premium website for a design & fashion institute.
-
-* Improved brand positioning and visual experience
-* Clean, responsive frontend with modern UI
-
-🌐 https://insdjaipur.com
-
----
-
-### 🔹 Chefeteria — Cafeteria Management SaaS
-
-Currently building a scalable SaaS platform for cafes.
-
-* Centralized system for orders, ledger, and operations
-* Multi-tenant architecture (e.g., cafe.chefeteria.app)
-* Designed for real-world deployment across multiple businesses
-
-🚀 Launching soon: chefeteria.app
-
----
-
-## 🎯 Current Focus
-
-* Scaling Chefeteria into a full SaaS product
-* Building systems that solve operational problems
-* Working directly with businesses to improve efficiency
+| Project     | Impact                      | Status                            |
+| ----------- | --------------------------- | --------------------------------- |
+| Tea20 Cafe  | QR ordering + full system   | 🔗 [Live](https://tea20cafe.in)   |
+| Chefeteria  | Multi-tenant SaaS for cafes | Launching                         |
+| INSD Jaipur | Premium brand website       | 🔗 [Live](https://insdjaipur.com) |
 
 ---
 
 ## 🤝 Work With Me
 
-I work with businesses that need:
-* Premium, high-converting websites
-* Custom operational systems
-* Workflow automation
-
-If you're running a business and things feel messy or your digital presence doesn’t reflect your brand.
-I can structure and improve it.
+| Problem              | What I Do                |
+| -------------------- | ------------------------ |
+| Messy operations     | Build structured systems |
+| No proper tools      | Develop custom SaaS      |
+| Weak online presence | Create premium websites  |
 
 ---
 
-## 📫 Contact
+If your business feels unstructured or outdated — I fix and streamline it with the right systems.
 
-* Email: [Your Email]
-* LinkedIn: [Your Link]
-
----
-
-> I build systems that businesses actually run on — not just projects.
+[📩 Email](mailto:maulikgaur12345@gmail.com)  [🔗 LinkedIn](https://www.linkedin.com/in/maulikgaur/)
